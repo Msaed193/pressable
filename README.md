@@ -1,2 +1,2 @@
-![alt-teksti](images/1.png)
-![alt-teksti](images/2.png)
+![Projektin logo](images/1.png)
+![Käyttöliittymän esimerkkikuva](images/2.png)
